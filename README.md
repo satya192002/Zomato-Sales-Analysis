@@ -1,6 +1,6 @@
 # Zomato Data Analysis using SQL
 
-## 📌 Project Overview (Level : Hard)
+## 📌 Project Overview 
 This project involves analyzing Zomato's food delivery data using SQL. It includes database schema design, creating relational tables, and enforcing foreign key constraints. The dataset contains information about customers, restaurants, orders, riders, and deliveries.
 
 ## 📄 Files Included
@@ -108,7 +108,7 @@ To run this project:
 -- Calculate each restaurant's growth ratio based on the total number of delivered orders since its joining.
 ```
 
-All solutions are provided in `EDA (Exploratory Data Analysis).sql`.
+All Tasks are Solved in `EDA (Exploratory Data Analysis).sql`.
 
 
 
